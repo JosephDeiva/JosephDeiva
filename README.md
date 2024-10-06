@@ -11,6 +11,8 @@ I'm a recent graduate passionate about software development. My journey began wi
 - C
 - C++
 - Python
+- Linux
+- Embedded C
 
 ### 📚 Learning
 - Currently focusing on Embedded C to explore the fascinating realm of embedded systems.
